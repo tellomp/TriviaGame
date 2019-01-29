@@ -1,0 +1,46 @@
+body{
+	font-size: 20px;
+	font-family: 'Anton', sans-serif;
+	color: rgb(148, 4, 4);
+}
+.question{
+	font-weight: 500;
+
+
+}
+.answers {
+	margin-bottom: 20px;
+	
+}
+#submit{
+	font-family: 'Anton', sans-serif;
+	font-size: 20px;
+	background-color:  rgb(148, 4, 4);
+	color: #fff;
+	border: 0px;
+	border-radius: 3px;
+	padding: 20px;
+	cursor: pointer;
+	margin-bottom: 20px;
+
+	
+}
+#submit:hover{
+	background-color: rgb(148, 4, 4);
+
+}
+
+#quiz{
+
+	margin-top: 40px;
+	text-indent: 450px;
+}
+
+
+#instructions
+{
+	margin-top: 300px;
+	font-size: 35px;
+	text-align: center;
+
+}
