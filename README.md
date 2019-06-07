@@ -12,6 +12,5 @@
 ### Technologies Used
 * HTML
 * CSS
-* Bootstrap
 * JavaScript
 * jQuery
